@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "Sns": {
+        "Subject": "DomainEvent",
+        "Message": "{\"entityType\":\"Customer\",\"whatHappened\":\"something happened\",\"entityId\":\"some random entity id\",\"payload\":{\"id\":\"some customer id\",\"personalDetails\":{\"firstName\":\"Nick\",\"lastName\":\"Meldrum\",\"title\":\"Professor\",\"emailAddress\":\"nick@nickmeldrum.com\"}},\"occurredAt\":\"1999-12-31\"}"
+      }
+    }
+  ]
+}
